@@ -50,3 +50,9 @@ uninstalling helm before moving onto argo
 ```bash
 helm uninstall python-app -n python
 ```
+
+## Installing ArgoCD
+```bash
+helm repo add argo https://argoproj.github.io/argo-helm
+helm upgrade --install argocd argo/argo-cd -n argocd --create-namespace -f values-argo.yaml
+```
