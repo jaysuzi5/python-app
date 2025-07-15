@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: jaysuzi5/python-app
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   tag: afafcd
 imagePullSecrets: []
 nameOverride: ""
