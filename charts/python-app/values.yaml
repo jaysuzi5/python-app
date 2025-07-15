@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: jaysuzi5/python-app
   pullPolicy: IfNotPresent
-  tag: c5afea
+  tag: afafcd
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
