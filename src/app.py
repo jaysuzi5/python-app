@@ -9,7 +9,7 @@ def info():
     return jsonify({
         'time': datetime.datetime.now().strftime("%I:%M:%S %p on %Y-%m-%d"),
         'hostname': socket.gethostname(),
-        'message': 'changed to info endpoint',
+        'message': 'Changed to info endpoint',
         'status': 'UP'
     })
 
