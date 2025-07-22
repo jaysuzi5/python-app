@@ -4,7 +4,7 @@ metadata:
   name: python-app
   description: Python api that dislapys the time
   annotations:
-    github.com/project-slug: jaysuzi5/python-app:
+    github.com/project-slug: jaysuzi5/python-app
 spec:
   type: service
   owner: development
