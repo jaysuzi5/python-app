@@ -7,4 +7,4 @@ This application has two endpoints:
 
 # How to access the app?
 
-You can access the app by accessing the URL: http://localhost:5001
+You can access the app by accessing the URL: http://home.com
