@@ -5,7 +5,7 @@ metadata:
   description: Python api that displays the time
   annotations:
     github.com/project-slug: jaysuzi5/python-app
-    backstage.io/techdocs-ref: dir:docs/index.md
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
